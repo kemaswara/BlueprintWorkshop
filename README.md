@@ -1,6 +1,6 @@
 # Unreal Engine 4 Workshop: Introduction to Blueprints and User Interface
 
-![Cover Image](./Resources/image.png)
+![Cover Image](./Resources/image2.jpg)
 
 Welcome to the Unreal Engine 4 Introduction to Blueprints and User Interface workshop template! This repository serves as a starting point for your workshop materials and project files.
 
