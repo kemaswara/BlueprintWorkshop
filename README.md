@@ -50,7 +50,7 @@ The project structure is designed to facilitate learning and collaboration:
 
 ## Third Party Assets Used
 
-(SuperGrid Starter Pack)[https://www.unrealengine.com/marketplace/en-US/product/supergrid-starter-pack]
+[SuperGrid Starter Pack](https://www.unrealengine.com/marketplace/en-US/product/supergrid-starter-pack)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
