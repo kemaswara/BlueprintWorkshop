@@ -45,6 +45,7 @@ The project structure is designed to facilitate learning and collaboration:
 - **`Blueprints/`**: Houses the Blueprint scripts for gameplay mechanics.
 - **`UI/`**: Contains UI assets and UMG (Unreal Motion Graphics) UI widgets.
 - **`Maps/`**: Stores level maps for the project.
+- **`ThirdParty/`**: Contains SuperGrid plugin.
 - **`Workshop_Materials/`**: Contains workshop presentation slides, exercise files, and additional resources.
 
 ## Third Party Assets Used
